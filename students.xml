@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tag0>
+    <tag1 grupa="Student" id="1">
+        <tag2 tag2_ID="001">
+            <t1>string</t1>
+        </tag2>
+        <studentName name="Cristian">10000000000000000000</studentName>
+    </tag1>
+</tag0>

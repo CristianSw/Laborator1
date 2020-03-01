@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <tag0>
     <tag1 grupa="Student" id="1">
-        <tag2 tag2_ID="001">
+        <tag2 tag2_ID="002">
             <t1>string</t1>
+            <t2>string</t2>
+            <t3>28.10.1998</t3>
+            <t4>string</t4>
+            <listElements>
+                <listElement>string</listElement>
+                <listElement>string</listElement>
+                <listElement>string</listElement>
+            </listElements>
+            <t5>123456789</t5>
+            10000000000000000000
         </tag2>
-        <studentName name="Cristian">10000000000000000000</studentName>
     </tag1>
 </tag0>
